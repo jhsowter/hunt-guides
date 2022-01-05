@@ -26,6 +26,15 @@ body {
   background-size: cover;
   font:14px/1.5 "Crimson Text", "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+
+.wrapper {
+  max-width: 50px;
+  margin:0 auto;
+  position:relative;
+  padding: 0 20px;
+}
+
 #header {
   border-bottom: 1px solid #434343;
   background-color: #0c1013;
