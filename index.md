@@ -22,4 +22,7 @@ Want to get good? [Check this out](intermediate)
 
 [Test Server Patch Notes (steam)](https://steamcommunity.com/app/770720/allnews/)
 
-[Changelog](change-log) | [About](about)
+# About
+Changes to the site are listed at [Changelog](change-log) 
+
+[About](about) this site. 
