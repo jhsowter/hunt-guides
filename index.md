@@ -1,4 +1,5 @@
 # Welcome to Hunt!
+![2017 E3 Hunting!](https://www.huntshowdown.com//files/screenshots/04_Hunt_screenshot_E3_2017.jpg "2017 E3 Hunting")
 
 New to Hunt? [Get started here!](beginner)
 
