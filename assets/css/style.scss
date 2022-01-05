@@ -24,22 +24,23 @@ body {
   background: #0c1013;
   font:14px/1.5 "Crimson Text", "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+#header {
+  nav {
+    background: #0c1013;
+    border-bottom: 1px solid #434343;
 
-nav {
-  background: #0c1013;
-  border-bottom: 1px solid #434343;
-
-  ul {
-    li {
-      color: #b82237;
-
-      a {
+    ul {
+      li {
         color: #b82237;
-        background: #0c1013;
-        border: none;
-        &:hover {
+
+        a {
+          color: #b82237;
           background: #0c1013;
-          font-style:italic;
+          border: none;
+          &:hover {
+            background: #0c1013;
+            font-style:italic;
+          }
         }
       }
     }
