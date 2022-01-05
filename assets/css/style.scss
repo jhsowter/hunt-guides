@@ -2,6 +2,8 @@
 ---
 
 
+@import "{{ site.theme }}";
+
 .highlight .cp {
   color: #b82237;
 }
@@ -17,8 +19,6 @@
 .highlight .no {
   color: #b82237;
 }
-
-@import "{{ site.theme }}";
 
 body {
   color: #525e63;
