@@ -1,4 +1,4 @@
-# 11. Changelog
+# Changelog
 
 * Edit: added damage graph and support link
 * Edit 2: added roadmap to links, damage multipliers
@@ -13,3 +13,4 @@
 * Edit 11: added how to clutch playlist, and some written guides, and custom ammo references
 * Edit 12: Added index and style fixes  
 * Edit 13: update custom ammo table link
+* 2022/01/05: Migrated to github pages, split content into multiple pages and added an about page. 
