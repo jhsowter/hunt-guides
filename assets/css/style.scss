@@ -26,17 +26,16 @@ body {
 }
 
 nav {
-    background: #0c1013;
+  background: #0c1013;
 
-    ul {
+  ul {
 
-      li {
-        a {
-          color: #b82237;
-          &:hover {
-            color:#b82237;
-            font-style:italic;
-          }
+    li {
+      a {
+        color: #b82237;
+        &:hover {
+          color:#b82237;
+          font-style:italic;
         }
       }
     }
