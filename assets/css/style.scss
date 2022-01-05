@@ -25,6 +25,23 @@ body {
   font:14px/1.5 "Crimson Text", "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+nav {
+    background: #0c1013;
+
+    ul {
+
+      li {
+        a {
+          color: #b82237;
+          &:hover {
+            color:#b82237;
+            font-style:italic;
+          }
+        }
+      }
+    }
+  }
+}
 
 p {
   font-size: 1.5rem;
