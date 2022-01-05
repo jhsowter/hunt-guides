@@ -1,9 +1,25 @@
 ---
 ---
 
+
+.highlight .cp {
+  color: #b82237;
+}
+.highlight .nt {
+  color: #b82237;
+}
+.highlight .nn {
+  color: #b82237;
+}
+.highlight .nc {
+  color: #b82237;
+}
+.highlight .no {
+  color: #b82237;
+}
+
 @import "{{ site.theme }}";
 
 body {
-  color:#b82237;
    background: #0c1013;
 }
