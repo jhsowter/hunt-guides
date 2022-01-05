@@ -11,4 +11,8 @@ body {
 
 a {
   color:#b82237;
+  
+  &:hover {
+     font-style:underline;
+  }
 }
