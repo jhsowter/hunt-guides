@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: Hunt:Showdown Guides
-layout: custom
+defaults:
+    values:
+      layout: "custom"
