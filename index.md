@@ -205,4 +205,4 @@ Quick disclaimer: I don't play on console, but I wanted to have something here f
 
 * This is a feedback video for Hunt but includes an explanation of how the matchmaking works at 5:30
 
-[# 11. Changelog](change-log.md)
+[# 11. Changelog](change-log)
