@@ -1,6 +1,5 @@
 ---
-title: Home
-layout: custom
+title: Welcome
 ---
 
 # Welcome to Hunt!
