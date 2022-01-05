@@ -27,12 +27,17 @@ body {
 
 nav {
   background: #0c1013;
+  border-bottom: 1px solid #434343;
 
   ul {
-
     li {
+      color: #b82237;
+      background: #0c1013;
+      
       a {
         color: #b82237;
+        background: #0c1013;
+        border: none;
         &:hover {
           color:#b82237;
           font-style:italic;
