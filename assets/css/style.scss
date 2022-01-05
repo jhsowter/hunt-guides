@@ -34,10 +34,11 @@ nav {
       color: #b82237;
 
       a {
+        color: #b82237;
         background-color: #0c1013;
         border: none;
         &:hover {
-          color:#b82237;
+          background-color: #0c1013;
           font-style:italic;
         }
       }
