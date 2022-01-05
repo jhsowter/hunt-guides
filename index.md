@@ -1,4 +1,4 @@
-## Welcome to Hunt!
+# Welcome to Hunt!
 
 New to Hunt? [Get started here!](beginner)
 
