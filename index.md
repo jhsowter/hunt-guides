@@ -1,3 +1,7 @@
+layout: page
+title: "Home"
+permalink: /home/
+
 # Welcome to Hunt!
 
 New to Hunt? [Get started here!](beginner)
