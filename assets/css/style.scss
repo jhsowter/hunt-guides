@@ -29,7 +29,7 @@ body {
 
 .wrapper {
   max-width: none;
-  margin:0 auto;
+  margin: 0 0 0 100px;
   position:relative;
   padding: 0 20px;
 }
@@ -52,7 +52,6 @@ body {
           box-shadow: none;
           &:hover {
             color: #b82237;
-            font-style:italic;
             border: none;
             box-shadow: none;
             background-color: #252a30;
