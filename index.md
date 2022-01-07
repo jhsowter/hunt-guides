@@ -2,9 +2,8 @@
 title: Welcome
 ---
 
-# Welcome to Hunt!
-![2017 E3 Hunting!](https://www.huntshowdown.com//files/screenshots/04_Hunt_screenshot_E3_2017.jpg "2017 E3 Hunting")
-
+Welcome to...  
+<img style="align:center" src="https://www.huntshowdown.com/assets/img/logo-nav.png" width="220" height="124">  
 New to Hunt? [Get started here!](beginner)
 
 Need to know something? [Information here](information)
