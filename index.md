@@ -10,17 +10,18 @@ title: Welcome
   
   <a href="beginner">
     <img width="120" height="200" src="assets/img/beginner.png"/>
-    Beginner's Guides
+    <span style="vertical-align:center">Beginner's Guides</span>
   <a/>
   <br/>
   <a href="handbook">
     <img width="120" height="200" src="assets/img/handbook.png"/>
-    Handbook
+    <span style="vertical-align:center">Handbook</span>
   <a/>
   <br/>
   <a href="guides">
     <img width="120" height="200" src="assets/img/guides.png"/>
-    Guides
+    <span style="vertical-align:center">Guides</span>
+    
   <a/>
 </p>
 
