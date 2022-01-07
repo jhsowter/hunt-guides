@@ -10,17 +10,17 @@ Welcome to...
 <a href="beginner">
 <img width="120" height="200" src="assets/img/beginner.png"/>
 Beginner's Guides
-<a/>
+</a>
 <br/>
 <a href="guides">
 <img width="120" height="200" src="assets/img/guides.png"/>
 Guides, Tips, and Tricks
-<a/>
+</a>
 <br/>
 <a href="handbook">
   <img width="120" height="200" src="assets/img/handbook.png"/>
   Handbook
-<a/>
+</a>
 </p>
 
 # Links
