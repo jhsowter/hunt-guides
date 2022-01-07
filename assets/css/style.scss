@@ -21,7 +21,8 @@
 }
 body {
   color: #525e63;
-  background: #0c1013;
+  background-image: url(/assets/img/nav.jpg);
+  background-size: cover;
   font:14px/1.5 "Crimson Text", "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -30,6 +31,7 @@ body {
 }
 
 .wrapper {
+  background-color: #0c1013;
   max-width: 1440px;
   margin: 0 auto;
   position:relative;
