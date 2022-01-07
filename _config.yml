@@ -3,3 +3,6 @@ title: Hunt:Showdown Guides
 defaults:
     values:
       layout: "custom"
+# Google-analytics
+google-analytics:
+  id:               "UA-102339322-1"
