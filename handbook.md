@@ -19,7 +19,8 @@ Unopinionated information about Hunt.
 
 ## Matchmaking
 
-[Hunt's New Skill-Based Matchmaking System Explained (Video)](https://www.huntshowdown.com/news/hunt-s-new-skill-based-matchmaking-system-explained)
+[Hunt's New Skill-Based Matchmaking System Explained](https://www.huntshowdown.com/news/hunt-s-new-skill-based-matchmaking-system-explained)
+> [Update on matchmaking improvements](https://www.huntshowdown.com/news/update-on-matchmaking-improvements)
 
 [Improving Hunt - What must be done? Matchmaking, Loadouts and Reconnection (Video)](https://youtu.be/ucfWUzk_u9c?t=333)
 
