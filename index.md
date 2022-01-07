@@ -7,7 +7,8 @@ Welcome to...
 <br/>
 <img src="assets/img/logo-nav.png" width="220" height="124">
 <br/>
-<img src="assets/img/Fankit/Screenshots/Hunt_E3_2017_screenshot_barn_1080p.jpg">
+<img style="width:100%" src="assets/img/Fankit/Screenshots/Hunt_E3_2017_screenshot_barn_1080p.jpg">
+<br/>
 <a href="beginner">
 <img width="120" height="200" src="assets/img/beginner.png"/>
 <br/>Beginner's Guides
