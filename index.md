@@ -14,6 +14,8 @@ Need to know something? Damage charts, maps and more in the [handbook](handbook)
 
 Want to get good? [Guides on a range of topics](guides)
 
+![Hunt E3 2017 screenshot](https://www.huntshowdown.com//files/screenshots/04_Hunt_screenshot_E3_2017.jpg)
+
 # Links
 Official Hunt:Showdown website.  
 [www.huntshowdown.com](https://www.huntshowdown.com/)  
