@@ -25,7 +25,7 @@ title: Welcome
   <a/>
 </p>
 
-
+<pre/>
 # Links
 Official Hunt:Showdown website.  
 [www.huntshowdown.com](https://www.huntshowdown.com/)  
