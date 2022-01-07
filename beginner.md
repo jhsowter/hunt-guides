@@ -1,4 +1,5 @@
-# 3. A complete beginner?
+# So, you're new to Hunt:Showdown
+![HuntScreenshot40](https://www.huntshowdown.com//files/screenshots/25_Hunt_screenshot_Update4.0.jpg)
 
 [A Complete Beginner's Guide To Hunt: Showdown (Video)](https://www.youtube.com/watch?v=caMSSQUDq-8)
 
