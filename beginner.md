@@ -12,7 +12,7 @@
 * Includes loadout suggestions
 * Explains the 3D gun view
 
-[Hunt Showdown Guide #1: Die Basics! Alles für Anfänger! (Video | German)](https://www.youtube.com/watch?v=XEuBPKWBM0M&feature=youtu.be)
+[Hunt Showdown Guide #1: Die Basics! Alles für Anfänger! (Video, German)](https://www.youtube.com/watch?v=XEuBPKWBM0M&feature=youtu.be)
 
 * Kinda watchable for English speakers with auto translate
 
