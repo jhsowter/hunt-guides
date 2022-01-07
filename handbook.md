@@ -1,10 +1,8 @@
+# Handbook
+Unopinionated information about Hunt. 
 
-[< Back to menu](index)
-
-# Information  
-[https://hunt-map.info/](https://hunt-map.info/)
-
-* map of both Lawson and the Bayou
+### [Maps](https://hunt-map.info/)
+* maps of Lawson Delta, Stillwater Bayou and DeSalle. 
 * Includes spawns, compound borders
 * Has a distance measuring tool
 
