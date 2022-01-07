@@ -6,15 +6,23 @@ title: Welcome
   Welcome to...  
   <br/>
   <img src="https://www.huntshowdown.com/assets/img/logo-nav.png" width="220" height="124">
+  <br/>
+  
+  <a href="beginner">
+    Beginner's Guides
+    <img width="120" height="200" src="https://static.wikia.nocookie.net/hunthorrorsofthegildedage_gamepedia/images/e/e8/Male_Tier1_%2812%29.png/revision/latest/scale-to-width-down/655?cb=20200807203141"/>
+  <a/>  
+  <br/>
+  <a href="handbook">
+    Handbook
+    <img width="120" height="200" src="https://static.wikia.nocookie.net/hunthorrorsofthegildedage_gamepedia/images/6/6d/Book_of_monsters.png/revision/latest/scale-to-width-down/279?cb=20190404215748"/>
+  <a/>
+  <br/>
+  <a href="guides">
+    Guides
+    <img width="120" height="200" src="https://static.wikia.nocookie.net/hunthorrorsofthegildedage_gamepedia/images/4/41/Male_Tier3_%289%29.png/revision/latest/scale-to-width-down/655?cb=20200807203806"/>
+  <a/>
 </p>
-
-New to Hunt? [Get started here!](beginner)
-
-Need to know something? Damage charts, maps and more in the [handbook](handbook)
-
-Want to get good? [Guides on a range of topics](guides)
-
-![Hunt E3 2017 screenshot](https://www.huntshowdown.com//files/screenshots/04_Hunt_screenshot_E3_2017.jpg)
 
 # Links
 Official Hunt:Showdown website.  
