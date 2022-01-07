@@ -5,21 +5,21 @@ title: Welcome
 <p style="text-align:center">
   Welcome to...  
   <br/>
-  <img src="https://www.huntshowdown.com/assets/img/logo-nav.png" width="220" height="124">
+  <img src="assets/img/logo-nav.png" width="220" height="124">
   <br/>
   
   <a href="beginner">
-    <img width="120" height="200" src="https://static.wikia.nocookie.net/hunthorrorsofthegildedage_gamepedia/images/e/e8/Male_Tier1_%2812%29.png/revision/latest/scale-to-width-down/655?cb=20200807203141"/>
+    <img width="120" height="200" src="assets/img/beginner.png"/>
     Beginner's Guides
   <a/>
   <br/>
   <a href="handbook">
-    <img width="120" height="200" src="https://static.wikia.nocookie.net/hunthorrorsofthegildedage_gamepedia/images/6/6d/Book_of_monsters.png/revision/latest/scale-to-width-down/279?cb=20190404215748"/>
+    <img width="120" height="200" src="assets/img/handbook.png"/>
     Handbook
   <a/>
   <br/>
   <a href="guides">
-    <img width="120" height="200" src="https://static.wikia.nocookie.net/hunthorrorsofthegildedage_gamepedia/images/4/41/Male_Tier3_%289%29.png/revision/latest/scale-to-width-down/655?cb=20200807203806"/>
+    <img width="120" height="200" src="assets/img/guides.png"/>
     Guides
   <a/>
 </p>
