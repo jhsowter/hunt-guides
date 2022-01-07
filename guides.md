@@ -1,14 +1,14 @@
 # Tips and Tricks
 
-[100 tips and tricks to help you get better at Hunt Showdown \[Hunt Educational Gameplay #12\] (Video)](https://www.youtube.com/watch?v=UxQ4U13e3XQ&list=PLNvgySd4wCDODFgoka8YcZ2TOdgTlJMgd&index=11&t=0s)
+[Psychoghost - 100 tips and tricks to help you get better at Hunt Showdown \[Hunt Educational Gameplay #12\] (Video)](https://www.youtube.com/watch?v=UxQ4U13e3XQ&list=PLNvgySd4wCDODFgoka8YcZ2TOdgTlJMgd&index=11&t=0s) - [September 2019, Update 1.0.1](https://store.steampowered.com/news/app/594650/view/2886167663028220210)
 
-[50 Tips & Tricks to become better at Hunt \[Hunt Guides #19\] (Video)](https://www.youtube.com/watch?v=HGLhehF85U8&list=PLNvgySd4wCDODFgoka8YcZ2TOdgTlJMgd&index=5&t=0s)
+[Psychoghost - 50 Tips & Tricks to become better at Hunt \[Hunt Guides #19\] (Video)](https://www.youtube.com/watch?v=HGLhehF85U8&list=PLNvgySd4wCDODFgoka8YcZ2TOdgTlJMgd&index=5&t=0s) - [July 2020, Update 1.4.1](https://store.steampowered.com/news/app/594650/view/2496632202900402611)
 
-[Hunt Showdown: 15 Tips Beginners NEED to Know! (Updated for 1.0) (Video)](https://www.youtube.com/watch?v=VPLbmqoTEz8&list=PL7HHnIT47PkPwqGOhco0nhU9jGbdFa58v&index=3&t=106s)
+[4FS Gaming - Hunt Showdown: 15 Tips Beginners NEED to Know! (Updated for 1.0) (Video)](https://youtu.be/VPLbmqoTEz8) - [July 2019, Update 1.0](https://store.steampowered.com/news/app/594650/view/4581805995809875796)
 
-[\[13 TIPS AND TRICKS YOU DIDN'T KNOW\] - Hunt: Showdown (Video)](https://www.youtube.com/watch?v=YJ06VmjSgOU)
+[RachtaZ \[13 TIPS AND TRICKS YOU DIDN'T KNOW\] - Hunt: Showdown (Video)](https://www.youtube.com/watch?v=YJ06VmjSgOU) - [August 2020, Early Access Update 1.4.2](https://store.steampowered.com/news/app/594650/view/2717311757331581741)
 
-[\[25 TIPS AND TRICKS YOU DIDN'T KNOW\] - Hunt: Showdown (Video)](https://www.youtube.com/watch?v=HIxIH1xfMdA)
+[RachtaZ \[25 TIPS AND TRICKS YOU DIDN'T KNOW\] - Hunt: Showdown (Video)](https://www.youtube.com/watch?v=HIxIH1xfMdA) - [December 2020, Patch 1.4.4](https://store.steampowered.com/news/app/594650/view/2922233151850931967)
 
 
 # Loadouts
@@ -53,6 +53,11 @@
 * third video in the list is an excellent [Sniper guide](https://www.youtube.com/watch?v=Cg0CrRwMowI&list=PLwplZ4QOxjqB5LkhjEnDbMaA6duXI8ntT&index=3)
 
 [Hunt Showdown: 3 Tips on how to kill Duos (as a Solo) (Video)](https://www.youtube.com/watch?v=PQwvOs3rdO8&list=PLP6nc2Ep8fZDXQfzIDUq4vMnxlJaqnLvy)
+
+# Playing Randoms
+[RachtaZ - Hunt: Showdown - How to Randoms (Video)](https://www.youtube.com/watch?v=fvJXY8DLI5o)  
+[Gunsmackk - Randoms Guides (Playlist)](https://www.youtube.com/playlist?list=PLwplZ4QOxjqBd7sEoT3aFeYivXZEqxkIt)  
+[LordJamesDelaney - How to play with Randoms - Hunt: Showdown Full Match (Video)](https://www.youtube.com/watch?v=oBgj0DMEq-w)  
 
 # Sound
 [Hunt Showdown Sound Tutorial: Was Geräusche und die Spielwelt verraten! (Video \| German)](https://www.youtube.com/watch?v=_iJw2kqRams&feature=youtu.be)
