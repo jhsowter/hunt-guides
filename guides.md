@@ -38,8 +38,6 @@
 
 * also watchable with auto translate
 
-**How to Clutch - 1v3 fights and tips**
-
 [How to Clutch (Playlist)](https://www.youtube.com/playlist?list=PLaWevfUUlcN5180RUEkzhev5nsmPSR2WQ)
 
 * IMO excellent examples of great, clean crosshair/ADS placement and positioning. Watch these if you want to improve your aim.
@@ -63,7 +61,6 @@
 [Hunt Showdown Sound Tutorial: Was Geräusche und die Spielwelt verraten! (Video \| German)](https://www.youtube.com/watch?v=_iJw2kqRams&feature=youtu.be)
 
 # Money
-**Making Money**
 
 [\[IN DEPTH GUIDE\] 💰 How to make/save MONEY in/on HUNT SHOWDOWN! 💰 (Video)](https://www.youtube.com/watch?v=2WPLqi_5RjE)
 
