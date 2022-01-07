@@ -3,29 +3,28 @@ title: Welcome
 ---
 
 <p style="text-align:center">
-  Welcome to...  
-  <br/>
-  <img src="assets/img/logo-nav.png" width="220" height="124">
-  <br/>
-  
-  <a href="beginner">
-    <img width="120" height="200" src="assets/img/beginner.png"/>
-    <span style="vertical-align:center">Beginner's Guides</span>
-  <a/>
-  <br/>
-  <a href="handbook">
-    <img width="120" height="200" src="assets/img/handbook.png"/>
-    <span style="vertical-align:center">Handbook</span>
-  <a/>
-  <br/>
-  <a href="guides">
-    <img width="120" height="200" src="assets/img/guides.png"/>
-    <span style="vertical-align:center">Guides</span>
-    
-  <a/>
+Welcome to...  
+<br/>
+<img src="assets/img/logo-nav.png" width="220" height="124">
+<br/>
+
+<a href="beginner">
+<img width="120" height="200" src="assets/img/beginner.png"/>
+<span style="vertical-align:center">Beginner's Guides</span>
+<a/>
+<br/>
+<a href="handbook">
+  <img width="120" height="200" src="assets/img/handbook.png"/>
+  <span style="vertical-align:center">Handbook</span>
+<a/>
+<br/>
+<a href="guides">
+<img width="120" height="200" src="assets/img/guides.png"/>
+<span style="vertical-align:center">Guides</span>
+
+<a/>
 </p>
 
-<pre/>
 # Links
 Official Hunt:Showdown website.  
 [www.huntshowdown.com](https://www.huntshowdown.com/)  
