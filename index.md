@@ -13,14 +13,14 @@ Welcome to...
 <span style="vertical-align:center">Beginner's Guides</span>
 <a/>
 <br/>
+<a href="guides">
+<img width="120" height="200" src="assets/img/guides.png"/>
+<span style="vertical-align:center">Guides, Tips, and Tricks</span>
+<br/>
 <a href="handbook">
   <img width="120" height="200" src="assets/img/handbook.png"/>
   <span style="vertical-align:center">Handbook</span>
 <a/>
-<br/>
-<a href="guides">
-<img width="120" height="200" src="assets/img/guides.png"/>
-<span style="vertical-align:center">Guides</span>
 
 <a/>
 </p>
