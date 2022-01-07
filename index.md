@@ -9,18 +9,18 @@ title: Welcome
   <br/>
   
   <a href="beginner">
-    Beginner's Guides
     <img width="120" height="200" src="https://static.wikia.nocookie.net/hunthorrorsofthegildedage_gamepedia/images/e/e8/Male_Tier1_%2812%29.png/revision/latest/scale-to-width-down/655?cb=20200807203141"/>
-  <a/>  
+    Beginner's Guides
+  <a/>
   <br/>
   <a href="handbook">
-    Handbook
     <img width="120" height="200" src="https://static.wikia.nocookie.net/hunthorrorsofthegildedage_gamepedia/images/6/6d/Book_of_monsters.png/revision/latest/scale-to-width-down/279?cb=20190404215748"/>
+    Handbook
   <a/>
   <br/>
   <a href="guides">
-    Guides
     <img width="120" height="200" src="https://static.wikia.nocookie.net/hunthorrorsofthegildedage_gamepedia/images/4/41/Male_Tier3_%289%29.png/revision/latest/scale-to-width-down/655?cb=20200807203806"/>
+    Guides
   <a/>
 </p>
 
