@@ -2,8 +2,12 @@
 title: Welcome
 ---
 
-Welcome to...  
-<img style="align:center" src="https://www.huntshowdown.com/assets/img/logo-nav.png" width="220" height="124">  
+<p style="text-align:center">
+  Welcome to...  
+  <br/>
+  <img src="https://www.huntshowdown.com/assets/img/logo-nav.png" width="220" height="124">
+</p>
+
 New to Hunt? [Get started here!](beginner)
 
 Need to know something? [Information here](information)
