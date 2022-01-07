@@ -7,13 +7,14 @@ Welcome to...
 <br/>
 <img src="assets/img/logo-nav.png" width="220" height="124">
 <br/>
+<img src="assets/img/Fankit/Screenshots/Hunt_E3_2017_screenshot_barn_1080p.jpg">
 <a href="beginner">
 <img width="120" height="200" src="assets/img/beginner.png"/>
 <br/>Beginner's Guides
 </a>
 <br/>
 <a href="guides">
-<img width="120" height="200" src="assets/img/guides.png"/>
+<img width="208" height="208" src="assets/img/guides.png"/>
 <br/>Guides, Tips, and Tricks
 </a>
 <br/>
