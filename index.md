@@ -5,7 +5,7 @@ title: Welcome
 <p style="text-align:center">
 Welcome to...  
 <br/>
-<img src="assets/img/logo-nav.png" width="220" height="124">
+<img src="assets/img/logo.png" width="220" height="124">
 <br/>
 <img style="width:100%" src="assets/img/Fankit/Screenshots/Hunt_E3_2017_screenshot_barn_1080p.jpg">
 <br/>
