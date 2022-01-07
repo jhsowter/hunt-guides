@@ -9,7 +9,7 @@ Welcome to...
 <br/>
 <img style="width:100%" src="assets/img/Fankit/Screenshots/Hunt_E3_2017_screenshot_barn_1080p.jpg">
 </p>
-<p style="display:flex;justify-content: space-between;">
+<p style="display:flex; justify-content: space-between; width: 75%; margin: auto;">
 <a href="beginner">
 <img width="120" height="200" src="assets/img/beginner.png"/>
 <br/>Beginner's Guides
