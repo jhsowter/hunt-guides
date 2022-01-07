@@ -15,6 +15,7 @@ Beginner's Guides
 <a href="guides">
 <img width="120" height="200" src="assets/img/guides.png"/>
 Guides, Tips, and Tricks
+<a/>
 <br/>
 <a href="handbook">
   <img width="120" height="200" src="assets/img/handbook.png"/>
