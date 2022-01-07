@@ -34,7 +34,7 @@
 
 [Positioning in Hunt: Showdown Part1 (Video)](https://www.youtube.com/watch?v=Oi3SsbnxrJA) | [Part 2 (Video)](https://www.youtube.com/watch?v=49nMX6KcBG4&t=916s)
 
-[Hunt Showdown PvP Guide: So gewinnt Ihr Schießereien! (Video | German)](https://www.youtube.com/watch?v=o5rbpCV4LDs&feature=youtu.be)
+[Hunt Showdown PvP Guide: So gewinnt Ihr Schießereien! (Video \| German)](https://www.youtube.com/watch?v=o5rbpCV4LDs&feature=youtu.be)
 
 * also watchable with auto translate
 
@@ -55,7 +55,7 @@
 [Hunt Showdown: 3 Tips on how to kill Duos (as a Solo) (Video)](https://www.youtube.com/watch?v=PQwvOs3rdO8&list=PLP6nc2Ep8fZDXQfzIDUq4vMnxlJaqnLvy)
 
 # Sound
-[Hunt Showdown Sound Tutorial: Was Geräusche und die Spielwelt verraten! (Video | German)](https://www.youtube.com/watch?v=_iJw2kqRams&feature=youtu.be)
+[Hunt Showdown Sound Tutorial: Was Geräusche und die Spielwelt verraten! (Video \| German)](https://www.youtube.com/watch?v=_iJw2kqRams&feature=youtu.be)
 
 # Money
 **Making Money**
