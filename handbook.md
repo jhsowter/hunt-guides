@@ -16,13 +16,47 @@ How stuff works, stats and data, lists and tables.
 *Custom ammo table*  
 ![Custom ammo table](https://i.imgur.com/2PmOI0v.png)
 
-* An up-to-date written reference for weapons, monsters, and just about everything else
-* Contains some (opinionated) pros and cons for each weapon
+
+**Custom Ammo**
+Developer Livestream - Overview (Videos)
+
+[Custom ammo overview](https://youtu.be/UNHUXXlkOjo?t=1349)
+
+**Bullets**
+
+* [Dumdum](https://youtu.be/UNHUXXlkOjo?t=2603)
+* [FMJ](https://youtu.be/UNHUXXlkOjo?t=2957)
+* [High Velocity](https://youtu.be/UNHUXXlkOjo?t=3320)
+* [Poison](https://youtu.be/UNHUXXlkOjo?t=3524)
+* [Incendiary](https://youtu.be/UNHUXXlkOjo?t=3909)
+* [Spitzer](https://youtu.be/UNHUXXlkOjo?t=4593)
+* [Explosive](https://youtu.be/UNHUXXlkOjo?t=4984)
+
+**Shells**
+
+* [Flechette](https://youtu.be/UNHUXXlkOjo?t=5327)
+* [Penny Shot](https://youtu.be/UNHUXXlkOjo?t=5628)
+* [Slugs](https://youtu.be/UNHUXXlkOjo?t=5922)
+* [Starshell](https://youtu.be/UNHUXXlkOjo?t=6505)
+* [Dragonbreath](https://youtu.be/UNHUXXlkOjo?t=6705)
+
+**Bolts**
+
+* [Poison](https://youtu.be/UNHUXXlkOjo?t=7026)
+* [Explosive](https://youtu.be/UNHUXXlkOjo?t=7116)
+* [Shotbolt](https://youtu.be/UNHUXXlkOjo?t=7145)
+* [Chaos](https://youtu.be/UNHUXXlkOjo?t=7159)
+* [Choke](https://youtu.be/UNHUXXlkOjo?t=7262)
+* [All bolt types demonstrated](https://youtu.be/UNHUXXlkOjo?t=7262)
 
 [Inside Hunt's Weapon System with David West](https://www.huntshowdown.com/news/inside-hunt-s-weapon-system-with-david-west)
 > bullet speed and damage have changed since this article was written, but basic mechanics remain the same. 
 
 [A detailed Hunter's All-In-One Guide (Article)](https://steamcommunity.com/sharedfiles/filedetails/?id=1443266818)
+
+* An up-to-date written reference for weapons, monsters, and just about everything else
+* Contains some (opinionated) pros and cons for each weapon 
+
 
 [Hunt Wiki](https://huntshowdown.fandom.com/wiki/Hunt:_Showdown_Wiki)
 
