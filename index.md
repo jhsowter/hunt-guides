@@ -7,29 +7,29 @@ Welcome to...
 <br/>
 <img src="assets/img/logo.png" width="440" height="248">
 </p>
-<p style="display:flex; justify-content: space-between; width: 75%; margin: auto;">
+<div style="display:flex; justify-content: space-between; width: 75%; margin: auto;">
   
-<div style="width:33%;text-align:center">
-  <a href="beginner">
-      <img width="120" height="200" src="assets/img/beginner.png"/>
-      <br/>Beginner's Guides
-  </a>
+  <div style="width:33%;text-align:center">
+    <a href="beginner">
+        <img width="120" height="200" src="assets/img/beginner.png"/>
+        <br/>Beginner's Guides
+    </a>
+    <br/>
+  </div>
+  <div style="width:33%;text-align:center">
+    <a href="guides">
+      <img width="208" height="208" src="assets/img/guides.png"/>
+      <br/>Guides, Tips, and Tricks
+    </a>
+  </div>
   <br/>
+  <div style="width:33%;text-align:center">
+    <a href="handbook">
+      <img width="120" height="200" src="assets/img/handbook.png"/>
+      <br/>Handbook
+    </a>
+  </div>
 </div>
-<div style="width:33%;text-align:center">
-  <a href="guides">
-    <img width="208" height="208" src="assets/img/guides.png"/>
-    <br/>Guides, Tips, and Tricks
-  </a>
-</div>
-<br/>
-<div style="width:33%;text-align:center">
-  <a href="handbook">
-    <img width="120" height="200" src="assets/img/handbook.png"/>
-    <br/>Handbook
-  </a>
-</div>
-</p>
 
 # Links
 Official Hunt:Showdown website.  
