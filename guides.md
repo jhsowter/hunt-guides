@@ -32,7 +32,8 @@
 
 * Mental strategies
 
-[Positioning in Hunt: Showdown Part1 (Video)](https://www.youtube.com/watch?v=Oi3SsbnxrJA) | [Part 2 (Video)](https://www.youtube.com/watch?v=49nMX6KcBG4&t=916s)
+[Positioning in Hunt: Showdown Part 1 (Video)](https://www.youtube.com/watch?v=Oi3SsbnxrJA)  
+[Positioning in Hunt: Showdown Part 2 (Video)](https://www.youtube.com/watch?v=49nMX6KcBG4&t=916s)  
 
 [Hunt Showdown PvP Guide: So gewinnt Ihr Schießereien! (Video \| German)](https://www.youtube.com/watch?v=o5rbpCV4LDs&feature=youtu.be)
 
