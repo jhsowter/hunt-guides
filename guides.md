@@ -45,10 +45,12 @@
 
 # Education Gameplay  
 Gameplay with commentary and/or analysis.  
+
+*Psychoghost*  
 [\[GUIDE\] The BEST Crossbow loadout in Hunt - Loadout, Gameplay & Tips](https://youtu.be/1IpplCa4JJ0)  
-[Psychoghost - 💡 EDUCATIONAL GAMEPLAY \[GUIDE\] 💡 Step - by - step with a long range loadout [Hunt Guide #13]](https://youtu.be/DbCSGsfS-YA)   
-[Psychoghost - [GUIDE] Focus: The brightest bangs - WALLBANGS \[Hunt Educational Gameplay\]](https://youtu.be/fhO75OQficI)  
-[Psychoghost - ⚠️ How to SHOTBOLT ⚠️ \[Hunt Educational Gameplay #11\]](https://youtu.be/erlNFAGSzgs)  
+[💡 EDUCATIONAL GAMEPLAY \[GUIDE\] 💡 Step - by - step with a long range loadout [Hunt Guide #13]](https://youtu.be/DbCSGsfS-YA)   
+[[GUIDE] Focus: The brightest bangs - WALLBANGS \[Hunt Educational Gameplay\]](https://youtu.be/fhO75OQficI)  
+[⚠️ How to SHOTBOLT ⚠️ \[Hunt Educational Gameplay #11\]](https://youtu.be/erlNFAGSzgs)  
 
 # Playing Solo
 
