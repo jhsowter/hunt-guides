@@ -41,8 +41,14 @@
 
 [How to Clutch (Playlist)](https://www.youtube.com/playlist?list=PLaWevfUUlcN5180RUEkzhev5nsmPSR2WQ)
 
-* IMO excellent examples of great, clean crosshair/ADS placement and positioning. Watch these if you want to improve your aim.
+* IMO excellent examples of great, clean crosshair/ADS placement and positioning. Watch these if you want to improve your aim.\
 
+# Education Gameplay  
+Gameplay with commentary and/or analysis.  
+[\[GUIDE\] The BEST Crossbow loadout in Hunt - Loadout, Gameplay & Tips](https://youtu.be/1IpplCa4JJ0)  
+[Psychoghost - 💡 EDUCATIONAL GAMEPLAY \[GUIDE\] 💡 Step - by - step with a long range loadout [Hunt Guide #13]](https://youtu.be/DbCSGsfS-YA)   
+[Psychoghost - [GUIDE] Focus: The brightest bangs - WALLBANGS \[Hunt Educational Gameplay\]](https://youtu.be/fhO75OQficI)  
+[Psychoghost - ⚠️ How to SHOTBOLT ⚠️ \[Hunt Educational Gameplay #11\]](https://youtu.be/erlNFAGSzgs)  
 
 # Playing Solo
 
@@ -54,6 +60,9 @@
 [RachtaZ - Hunt: Showdown - Solo Educational Gameplay #1 \[NO HUD\]](https://www.youtube.com/watch?v=PjAK6bOimhM)  
 
 [RachtaZ - Hunt: Showdown - Solo Educational Gameplay #2 \[Cheap and Effective Loadout\]](https://www.youtube.com/watch?v=ED2jxnjJ3lg)
+
+[Psychoghost - (HUNT SOLO GUIDE - One of the BEST SOLO LOADOUTS [Hunt Guide #24])](https://youtu.be/TqcXXoucbS0)  
+[Psychoghost - HUNT SOLO GUIDE - Decision Making in Gunfights (Crossbow Loadout) [Hunt Guide #23]](https://youtu.be/r9HQEehgzJU)
 
 [Hunt Showdown: 3 Tips on how to kill Duos (as a Solo) (Video)](https://www.youtube.com/watch?v=PQwvOs3rdO8&list=PLP6nc2Ep8fZDXQfzIDUq4vMnxlJaqnLvy)
 
@@ -81,9 +90,7 @@
 
 * Some extra tips about movement mechanics in this one.
 
-[Playlist: DelacroixGaming - Compound Guides](https://www.youtube.com/playlist?list=PLaWevfUUlcN4i-bTi-z0KpaL3WhAK7l6i)
-
-* The longest list of compound guides I can find, by someone with a lot of experience.
+[DelacroixGaming - Compound Guides (Video Playlist)](https://youtube.com/playlist?list=PL8JOVjVC1NGfg-MaS62KgI-SEHRSmLHPj)
 
 [Playlist: Hunt Showdown: Tactical Tours](https://www.youtube.com/playlist?list=PL7HHnIT47PkM1dBZ1WDu3LVakgMZyastm)
 
@@ -120,6 +127,9 @@ Quick disclaimer: I don't play on console, but I wanted to have something here f
 [Hunt Showdown Aim Settings Guide PS4/XBOX ONE (Video)](https://www.youtube.com/watch?v=iHuspj5Iqkw)
 
 [Hunt Showdown Gameplay Tips PS4/XBOX ONE (Video)](https://www.youtube.com/watch?v=lMWpFsgHtEs)
+
+# Prestige
+[Psychoghost - Hunt Guide - PRESTIGE - What does it do? Should you do it? Prestige EXPLAINED!](https://youtu.be/XwBIcYWG3EU)
 
 # Settings
 [Rachta's Academy \[#1\] - The Best PvP Settings \[Hunt: Showdown\]](https://www.youtube.com/watch?v=4cfWUNOmmDM)
