@@ -42,7 +42,9 @@ Discussion, memes, hats.
 [Subreddit](https://www.reddit.com/r/huntshowdown)
 
 Report bugs, cheating, and misconduct, or get technical support for the game.  
-[Support Link](https://huntshowdown.kayako.com/)
+[Support now via the offical website](https://www.huntshowdown.com/)
+![image](https://user-images.githubusercontent.com/1551332/148677042-6807b8bf-767a-4a07-81a4-d201a36af17e.png)
+
 
 The roadmap is currently MIA.   
 [Roadmap](https://www.huntshowdown.com/roadmap)
