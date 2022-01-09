@@ -39,9 +39,9 @@
 
 * also watchable with auto translate
 
-[How to Clutch (Playlist)](https://www.youtube.com/playlist?list=PLaWevfUUlcN5180RUEkzhev5nsmPSR2WQ)
-
-* IMO excellent examples of great, clean crosshair/ADS placement and positioning. Watch these if you want to improve your aim.\
+*LordJamesDelaney*  
+[How To Improve In Close Quarters Fights - Hunt: Showdown](https://youtu.be/XoVXzEYAkgQ)  
+[This Loadout will make you become a Machine - Hunt: Showdown](https://www.youtube.com/watch?v=dvK89vXyYvs)
 
 # Education Gameplay  
 Gameplay with commentary and/or analysis.  
@@ -51,6 +51,12 @@ Gameplay with commentary and/or analysis.
 [💡 EDUCATIONAL GAMEPLAY \[GUIDE\] 💡 Step - by - step with a long range loadout [Hunt Guide #13]](https://youtu.be/DbCSGsfS-YA)   
 [[GUIDE] Focus: The brightest bangs - WALLBANGS \[Hunt Educational Gameplay\]](https://youtu.be/fhO75OQficI)  
 [⚠️ How to SHOTBOLT ⚠️ \[Hunt Educational Gameplay #11\]](https://youtu.be/erlNFAGSzgs)  
+
+*LordJamesDelaney*  
+IMO excellent examples of great, clean crosshair/ADS placement and positioning. Watch these if you want to improve your aim.  
+[How To Clutch in Hunt: Showdown #1](https://youtu.be/t8b4mfQblVc)   
+[How To Clutch in Hunt: Showdown #2](https://youtu.be/K37oHzndqHI)  
+[How To Clutch in Hunt: Showdown #3](https://youtu.be/mtDGbf5qKC8)
 
 # Playing Solo
 
@@ -65,6 +71,9 @@ Gameplay with commentary and/or analysis.
 
 [Psychoghost - (HUNT SOLO GUIDE - One of the BEST SOLO LOADOUTS [Hunt Guide #24])](https://youtu.be/TqcXXoucbS0)  
 [Psychoghost - HUNT SOLO GUIDE - Decision Making in Gunfights (Crossbow Loadout) [Hunt Guide #23]](https://youtu.be/r9HQEehgzJU)
+
+*LordJamesDelaney*
+[How to Solo vs Trio - Hunt: Showdown Full Commentary Solo Gameplay](https://youtu.be/zPAO4luKnzM)
 
 [Hunt Showdown: 3 Tips on how to kill Duos (as a Solo) (Video)](https://www.youtube.com/watch?v=PQwvOs3rdO8&list=PLP6nc2Ep8fZDXQfzIDUq4vMnxlJaqnLvy)
 
@@ -148,5 +157,11 @@ Quick disclaimer: I don't play on console, but I wanted to have something here f
 
 # Settings
 [Rachta's Academy \[#1\] - The Best PvP Settings \[Hunt: Showdown\]](https://www.youtube.com/watch?v=4cfWUNOmmDM)
+[Gunsmackk - MY SETTINGS IN HUNT: SHOWDOWN! - Best Settings in Hunt: Showdown](https://www.youtube.com/watch?v=4zauTlkQxtg)
+
+# Aim  
+[Rachta's Academy [#3] - How to Aim [Hunt: Showdown]](https://youtu.be/ItCBM3VoGfo)  
+[4FSGaming - Hunt Showdown: 10 Tips to Improve Your Aim](https://www.youtube.com/watch?v=_R39FDUO17k)  
+[LordJamesDelaney - How I got Confident with my Aim - Hunt: Showdown](https://www.youtube.com/watch?v=6kRUPoOG5Sg)
 
 
