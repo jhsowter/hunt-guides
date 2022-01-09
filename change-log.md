@@ -15,3 +15,4 @@
 * Edit 13: update custom ammo table link
 * 2022/01/05: Migrated to github pages, split content into multiple pages and added an about page. 
 * 2022/01/07: Renamed "information" to "handbook" and "intermediate" to "guides". Moved matchmaking info into handbook. re-categorized the guides. 
+* 2022/01/09: Added more guides from RachtaZ, Pyschoghost and Delacroix, and moved tips and tricks to beginners page. 
