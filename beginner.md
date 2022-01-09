@@ -1,5 +1,5 @@
 # So, you're new to Hunt:Showdown
-![HuntScreenshot40](https://www.huntshowdown.com//files/screenshots/25_Hunt_screenshot_Update4.0.jpg)
+![HuntScreenshot40](/assets/img/blogs/200131_Sherriff_blog.jpg)
 
 These guides are listed in order of their release date.
 
