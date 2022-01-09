@@ -33,7 +33,7 @@ Official Hunt:Showdown website.
 Feeback for the game, technical support, looking for players, casual chat, lore discussions and official announcements.  
 [Official Discord](https://discord.gg/huntshowdown)
 
-Discussion, memes, hats. 
+Discussion, memes, hats.   
 [Subreddit](https://www.reddit.com/r/huntshowdown)
 
 Report bugs, cheating, and misconduct, or get technical support for the game.  
