@@ -1,16 +1,3 @@
-# Tips and Tricks
-
-[Psychoghost - 100 tips and tricks to help you get better at Hunt Showdown \[Hunt Educational Gameplay #12\] (Video)](https://www.youtube.com/watch?v=UxQ4U13e3XQ&list=PLNvgySd4wCDODFgoka8YcZ2TOdgTlJMgd&index=11&t=0s) - [September 2019, Update 1.0.1](https://store.steampowered.com/news/app/594650/view/2886167663028220210)
-
-[Psychoghost - 50 Tips & Tricks to become better at Hunt \[Hunt Guides #19\] (Video)](https://www.youtube.com/watch?v=HGLhehF85U8&list=PLNvgySd4wCDODFgoka8YcZ2TOdgTlJMgd&index=5&t=0s) - [July 2020, Update 1.4.1](https://store.steampowered.com/news/app/594650/view/2496632202900402611)
-
-[4FS Gaming - Hunt Showdown: 15 Tips Beginners NEED to Know! (Updated for 1.0) (Video)](https://youtu.be/VPLbmqoTEz8) - [July 2019, Update 1.0](https://store.steampowered.com/news/app/594650/view/4581805995809875796)
-
-[RachtaZ \[13 TIPS AND TRICKS YOU DIDN'T KNOW\] - Hunt: Showdown (Video)](https://www.youtube.com/watch?v=YJ06VmjSgOU) - [August 2020, Early Access Update 1.4.2](https://store.steampowered.com/news/app/594650/view/2717311757331581741)
-
-[RachtaZ \[25 TIPS AND TRICKS YOU DIDN'T KNOW\] - Hunt: Showdown (Video)](https://www.youtube.com/watch?v=HIxIH1xfMdA) - [December 2020, Patch 1.4.4](https://store.steampowered.com/news/app/594650/view/2922233151850931967)
-
-
 # Loadouts
 
 [💰 MY TOP 5 BUDGET LOADOUTS 💰 (so far - for beginners and veterans) \[Hunt Guide #14\] (Video)](https://youtu.be/V-AHkOLGDTE)
