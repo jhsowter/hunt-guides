@@ -95,10 +95,10 @@ IMO excellent examples of great, clean crosshair/ADS placement and positioning. 
 
 [RachtaZ - Cheap and Effective Loadouts for Making Money in Hunt](https://www.youtube.com/watch?v=g5eUh93Tbwk)
 
-[Gunsmackk - Cash Register Guide for Stillwater Bayou | Hunt: Showdown Cash Register Guide](https://youtu.be/pI-X_uoO0U4)
+[Gunsmackk - Cash Register Guide for Stillwater Bayou \| Hunt: Showdown Cash Register Guide](https://youtu.be/pI-X_uoO0U4)
 
 # Spawns
-[Delacroix - Hunt: Showdown | Spawns 101](https://youtu.be/vquZJfJ0L-4)
+[Delacroix - Hunt: Showdown \| Spawns 101](https://youtu.be/vquZJfJ0L-4)
 
 # Compound Guides
 
