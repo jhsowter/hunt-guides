@@ -1,5 +1,6 @@
 # Handbook
 How stuff works, stats and data, lists and tables. 
+![Handbook](/assets/img/blogs/Blog_huntshowdown.com_1920_x_108031.jpg)
 
 [Maps](https://hunt-map.info/)
 * maps of Lawson Delta, Stillwater Bayou and DeSalle. 
@@ -12,11 +13,14 @@ How stuff works, stats and data, lists and tables.
 *Damage Multipliers*
 ![Damage Multipliers](https://media.discordapp.net/attachments/350202864242655234/692799272017461315/27.jpg?width=1499&height=843) (from Discord)
 
-*Custom ammo table*
+*Custom ammo table*  
 ![Custom ammo table](https://i.imgur.com/2PmOI0v.png)
 
 * An up-to-date written reference for weapons, monsters, and just about everything else
 * Contains some (opinionated) pros and cons for each weapon
+
+[Inside Hunt's Weapon System with David West](https://www.huntshowdown.com/news/inside-hunt-s-weapon-system-with-david-west)
+> bullet speed and damage have changed since this article was written, but basic mechanics remain the same. 
 
 [A detailed Hunter's All-In-One Guide (Article)](https://steamcommunity.com/sharedfiles/filedetails/?id=1443266818)
 
