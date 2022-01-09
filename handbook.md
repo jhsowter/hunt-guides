@@ -1,21 +1,26 @@
 # Handbook
-Unopinionated information about Hunt. 
+How stuff works, stats and data, lists and tables. 
 
 [Maps](https://hunt-map.info/)
 * maps of Lawson Delta, Stillwater Bayou and DeSalle. 
 * Includes spawns, compound borders
 * Has a distance measuring tool
 
-[Damage Graph](https://media.discordapp.net/attachments/350202864242655234/692790654593400903/projectile_drop_new.png?width=1348&height=843) (from Discord)
+*Damage Graph*
+![Damage Graph](https://media.discordapp.net/attachments/350202864242655234/692790654593400903/projectile_drop_new.png?width=1348&height=843) (from Discord)
 
-[Damage Multipliers](https://media.discordapp.net/attachments/350202864242655234/692799272017461315/27.jpg?width=1499&height=843) (from Discord)
+*Damage Multipliers*
+![Damage Multipliers](https://media.discordapp.net/attachments/350202864242655234/692799272017461315/27.jpg?width=1499&height=843) (from Discord)
 
-[Custom ammo table](https://m.imgur.com/2PmOI0v?r)
-
-[A detailed Hunter's All-In-One Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1443266818)
+*Custom ammo table*
+![Custom ammo table](https://i.imgur.com/2PmOI0v.png)
 
 * An up-to-date written reference for weapons, monsters, and just about everything else
 * Contains some (opinionated) pros and cons for each weapon
+
+[A detailed Hunter's All-In-One Guide (Article)](https://steamcommunity.com/sharedfiles/filedetails/?id=1443266818)
+
+[Hunt Wiki](https://huntshowdown.fandom.com/wiki/Hunt:_Showdown_Wiki)
 
 ## Matchmaking
 
