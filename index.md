@@ -6,24 +6,29 @@ title: Welcome
 Welcome to...  
 <br/>
 <img src="assets/img/logo.png" width="440" height="248">
-<br/>
-<img style="width:100%" src="assets/img/Fankit/Screenshots/Hunt_E3_2017_screenshot_barn_1080p.jpg">
 </p>
 <p style="display:flex; justify-content: space-between; width: 75%; margin: auto;">
-<a href="beginner">
-<img width="120" height="200" src="assets/img/beginner.png"/>
-<br/>Beginner's Guides
-</a>
+  
+<span style="width:33%;align:center">
+  <a href="beginner">
+      <img width="120" height="200" src="assets/img/beginner.png"/>
+      <br/>Beginner's Guides
+  </a>
+  <br/>
+</span>
+<span style="width:33%;align:center">
+  <a href="guides">
+    <img width="208" height="208" src="assets/img/guides.png"/>
+    <br/>Guides, Tips, and Tricks
+  </a>
+</span>
 <br/>
-<a href="guides">
-<img width="208" height="208" src="assets/img/guides.png"/>
-<br/>Guides, Tips, and Tricks
-</a>
-<br/>
-<a href="handbook">
-  <img width="120" height="200" src="assets/img/handbook.png"/>
-  <br/>Handbook
-</a>
+<span style="width:33%;align:center">
+  <a href="handbook">
+    <img width="120" height="200" src="assets/img/handbook.png"/>
+    <br/>Handbook
+  </a>
+</span>
 </p>
 
 # Links
