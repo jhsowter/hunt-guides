@@ -112,11 +112,11 @@ IMO excellent examples of great, clean crosshair/ADS placement and positioning. 
 
 # Fanning, Levering and Shotguns
 *Delacroix*  
-[Hunt: Showdown | Fanning 101](https://youtu.be/_SzsTrIaSLg)  
-[Hunt: Showdown | Levering and Shotgun Dilemma](https://youtu.be/ZLyITJmx_bU) 
+[Hunt: Showdown \| Fanning 101](https://youtu.be/_SzsTrIaSLg)  
+[Hunt: Showdown \| Levering and Shotgun Dilemma](https://youtu.be/ZLyITJmx_bU) 
 > Important notes on how to use shotsguns [at 7:42](https://youtu.be/ZLyITJmx_bU?t=462)  
 
-[Hunt: Showdown | Dual Wield 101](https://youtu.be/wAmJ4HEoUuY)  
+[Hunt: Showdown \| Dual Wield 101](https://youtu.be/wAmJ4HEoUuY)  
 
 # Quickplay Guides
 
