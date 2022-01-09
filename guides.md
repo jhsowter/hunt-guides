@@ -43,7 +43,7 @@
 [How To Improve In Close Quarters Fights - Hunt: Showdown](https://youtu.be/XoVXzEYAkgQ)  
 [This Loadout will make you become a Machine - Hunt: Showdown](https://www.youtube.com/watch?v=dvK89vXyYvs)
 
-# Education Gameplay  
+# Educational Gameplay  
 Gameplay with commentary and/or analysis.  
 
 *Psychoghost*  
