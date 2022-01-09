@@ -9,26 +9,26 @@ Welcome to...
 </p>
 <p style="display:flex; justify-content: space-between; width: 75%; margin: auto;">
   
-<span style="width:33%;align:center">
+<div style="width:33%;text-align:center">
   <a href="beginner">
       <img width="120" height="200" src="assets/img/beginner.png"/>
       <br/>Beginner's Guides
   </a>
   <br/>
-</span>
-<span style="width:33%;align:center">
+</div>
+<div style="width:33%;text-align:center">
   <a href="guides">
     <img width="208" height="208" src="assets/img/guides.png"/>
     <br/>Guides, Tips, and Tricks
   </a>
-</span>
+</div>
 <br/>
-<span style="width:33%;align:center">
+<div style="width:33%;text-align:center">
   <a href="handbook">
     <img width="120" height="200" src="assets/img/handbook.png"/>
     <br/>Handbook
   </a>
-</span>
+</div>
 </p>
 
 # Links
