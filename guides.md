@@ -156,7 +156,7 @@ Quick disclaimer: I don't play on console, but I wanted to have something here f
 [Psychoghost - Hunt Guide - PRESTIGE - What does it do? Should you do it? Prestige EXPLAINED!](https://youtu.be/XwBIcYWG3EU)
 
 # Settings
-[Rachta's Academy \[#1\] - The Best PvP Settings \[Hunt: Showdown\]](https://www.youtube.com/watch?v=4cfWUNOmmDM)
+[Rachta's Academy \[#1\] - The Best PvP Settings \[Hunt: Showdown\]](https://www.youtube.com/watch?v=4cfWUNOmmDM)  
 [Gunsmackk - MY SETTINGS IN HUNT: SHOWDOWN! - Best Settings in Hunt: Showdown](https://www.youtube.com/watch?v=4zauTlkQxtg)
 
 # Aim  
