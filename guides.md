@@ -162,6 +162,7 @@ Quick disclaimer: I don't play on console, but I wanted to have something here f
 # Aim  
 [Rachta's Academy [#3] - How to Aim [Hunt: Showdown]](https://youtu.be/ItCBM3VoGfo)  
 [4FSGaming - Hunt Showdown: 10 Tips to Improve Your Aim](https://www.youtube.com/watch?v=_R39FDUO17k)  
-[LordJamesDelaney - How I got Confident with my Aim - Hunt: Showdown](https://www.youtube.com/watch?v=6kRUPoOG5Sg)
+[LordJamesDelaney - How I got Confident with my Aim - Hunt: Showdown](https://www.youtube.com/watch?v=6kRUPoOG5Sg)  
+[Matalic Soldier - How to Improve Your Aim In Hunt: Showdown](https://youtu.be/rqbhSj_RLMY)
 
 
