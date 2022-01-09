@@ -19,9 +19,12 @@ Unopinionated information about Hunt.
 
 ## Matchmaking
 
-[Hunt's New Skill-Based Matchmaking System Explained](https://www.huntshowdown.com/news/hunt-s-new-skill-based-matchmaking-system-explained)
+[Psychoghost - The NEW 1.5.1 matchmaking! Full Matchmaking guide [Hunt Guide #25]](https://youtu.be/MaDUrJBzQ9g)
+* [Existing Matchmaking](https://youtu.be/MaDUrJBzQ9g?t=60)
+* [New Matchmaking](https://youtu.be/MaDUrJBzQ9g?t=216)
+* [Trainee Mode](https://youtu.be/MaDUrJBzQ9g?t=4644)
+* [Group Matchmaking](https://youtu.be/MaDUrJBzQ9g?t=616)
+* [Quickplay](https://youtu.be/MaDUrJBzQ9g?t=820)
+
+[Official Blog - Hunt's New Skill-Based Matchmaking System Explained](https://www.huntshowdown.com/news/hunt-s-new-skill-based-matchmaking-system-explained)
 > [Update on matchmaking improvements](https://www.huntshowdown.com/news/update-on-matchmaking-improvements)
-
-[Improving Hunt - What must be done? Matchmaking, Loadouts and Reconnection (Video)](https://youtu.be/ucfWUzk_u9c?t=333)
-
-* This is a feedback video for Hunt but includes an explanation of how the matchmaking works at 5:30
