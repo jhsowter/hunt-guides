@@ -45,24 +45,34 @@
 
 # Playing Solo
 
-[Solo Guides  (Video)](https://www.youtube.com/playlist?list=PLwplZ4QOxjqB5LkhjEnDbMaA6duXI8ntT)
+[Gunsmackk - Solo Guides  (Video)](https://www.youtube.com/playlist?list=PLwplZ4QOxjqB5LkhjEnDbMaA6duXI8ntT)
 
 * Edited gameplay focussed on playing Solo
 * third video in the list is an excellent [Sniper guide](https://www.youtube.com/watch?v=Cg0CrRwMowI&list=PLwplZ4QOxjqB5LkhjEnDbMaA6duXI8ntT&index=3)
+
+[RachtaZ - Hunt: Showdown - Solo Educational Gameplay #1 \[NO HUD\]](https://www.youtube.com/watch?v=PjAK6bOimhM)  
+
+[RachtaZ - Hunt: Showdown - Solo Educational Gameplay #2 \[Cheap and Effective Loadout\]](https://www.youtube.com/watch?v=ED2jxnjJ3lg)
 
 [Hunt Showdown: 3 Tips on how to kill Duos (as a Solo) (Video)](https://www.youtube.com/watch?v=PQwvOs3rdO8&list=PLP6nc2Ep8fZDXQfzIDUq4vMnxlJaqnLvy)
 
 # Playing Randoms
 [RachtaZ - Hunt: Showdown - How to Randoms (Video)](https://www.youtube.com/watch?v=fvJXY8DLI5o)  
+
 [Gunsmackk - Randoms Guides (Playlist)](https://www.youtube.com/playlist?list=PLwplZ4QOxjqBd7sEoT3aFeYivXZEqxkIt)  
+
 [LordJamesDelaney - How to play with Randoms - Hunt: Showdown Full Match (Video)](https://www.youtube.com/watch?v=oBgj0DMEq-w)  
 
 # Sound
 [Hunt Showdown Sound Tutorial: Was Geräusche und die Spielwelt verraten! (Video \| German)](https://www.youtube.com/watch?v=_iJw2kqRams&feature=youtu.be)
 
+[Rachta's Academy \[#2\] - How to Wallbang \[Hunt: Showdown\]](https://www.youtube.com/watch?v=6Mq60-p1Myw)
+
 # Money
 
-[\[IN DEPTH GUIDE\] 💰 How to make/save MONEY in/on HUNT SHOWDOWN! 💰 (Video)](https://www.youtube.com/watch?v=2WPLqi_5RjE)
+[Psychoghost - \[IN DEPTH GUIDE\] 💰 How to make/save MONEY in/on HUNT SHOWDOWN! 💰 (Video)](https://www.youtube.com/watch?v=2WPLqi_5RjE)
+
+[RachtaZ - Cheap and Effective Loadouts for Making Money in Hunt](https://www.youtube.com/watch?v=g5eUh93Tbwk)
 
 # Compound Guides
 
@@ -82,6 +92,26 @@
 
 [Hunt Showdown: The Quickplay Guide (Video)](https://www.youtube.com/watch?v=laW-OC2WKdw)
 
+# Trials
+*Psychoghost*  
+[⏱️ PARKOUR/TIMED TRIALS ⏱️ - Hard Mode Completion \[Hunt Guide #15\]](https://youtu.be/Po8FsInBf2k) 
+
+[⏱️ WAVE/HORDE TRIALS ⏱️ - Hard Mode Completion \[Hunt Guide #16\]](https://youtu.be/XbAzePmpn_k)
+
+[⏱️ SNIPER TRIALS ⏱️ - Hard Mode Completion \[Hunt Guide #17\]](https://youtu.be/tV-CXkAsZ9Q)
+
+[⏱️ Lawson Delta - WAVE TRIALS ⏱️ - Hard Mode Completion [Hunt Guide #19]](https://youtu.be/cGYv--EmOTA)
+
+[⏱️ Lawson Delta (+ new Bayou) TIMED & SNIPER TRIALS ⏱️ - Hard Mode Completion [Hunt Guide #20]](https://youtu.be/XzZekddAl14)
+> Note there is a Stillwater Bayou trial in this guide, for Alain and Son's Fish. 
+
+[⏱️ All new trials - Last Resort Unlock ⏱️ - Hard Mode Completion \[Hunt Guide #21\]](https://youtu.be/Oi7DTnoqjS0)
+
+*RachtaZ*  
+[Hunt: Showdown- All Trials on Hard \[1.4.1. - Test Servers\]](https://youtu.be/WyoN-c0NLLI)
+
+[Hunt: Showdown- All Trials on Hard \[1.4.2. - Test Servers\]](https://youtu.be/IsZzfUq8w_Y)
+
 # Console (PS4, XBOX)
 
 Quick disclaimer: I don't play on console, but I wanted to have something here for console players because I know from discussions on this subreddit that console plays differently to PC. If you have suggestions for great console-based Hunt content, post a comment and if it gets a decent amount of upvotes, I will add it to here.
@@ -90,5 +120,7 @@ Quick disclaimer: I don't play on console, but I wanted to have something here f
 
 [Hunt Showdown Gameplay Tips PS4/XBOX ONE (Video)](https://www.youtube.com/watch?v=lMWpFsgHtEs)
 
+# Settings
+[Rachta's Academy \[#1\] - The Best PvP Settings \[Hunt: Showdown\]](https://www.youtube.com/watch?v=4cfWUNOmmDM)
 
 
