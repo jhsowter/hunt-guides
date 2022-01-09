@@ -86,6 +86,9 @@ Gameplay with commentary and/or analysis.
 
 [RachtaZ - Cheap and Effective Loadouts for Making Money in Hunt](https://www.youtube.com/watch?v=g5eUh93Tbwk)
 
+# Spawns
+[Delacroix - Hunt: Showdown | Spawns 101](https://youtu.be/vquZJfJ0L-4)
+
 # Compound Guides
 
 [Healing Waters: How to have the edge! (Video)](https://www.youtube.com/watch?v=JKoNQWXvkHs)
@@ -95,6 +98,14 @@ Gameplay with commentary and/or analysis.
 [DelacroixGaming - Compound Guides (Video Playlist)](https://youtube.com/playlist?list=PL8JOVjVC1NGfg-MaS62KgI-SEHRSmLHPj)
 
 [Playlist: Hunt Showdown: Tactical Tours](https://www.youtube.com/playlist?list=PL7HHnIT47PkM1dBZ1WDu3LVakgMZyastm)
+
+# Fanning, Levering and Shotguns
+*Delacroix*  
+[Hunt: Showdown | Fanning 101](https://youtu.be/_SzsTrIaSLg)  
+[Hunt: Showdown | Levering and Shotgun Dilemma](https://youtu.be/ZLyITJmx_bU) 
+> Important notes on how to use shotsguns [at 7:42](https://youtu.be/ZLyITJmx_bU?t=462)  
+
+[Hunt: Showdown | Dual Wield 101](https://youtu.be/wAmJ4HEoUuY)  
 
 # Quickplay Guides
 
