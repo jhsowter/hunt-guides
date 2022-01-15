@@ -6,25 +6,30 @@ title: Welcome
 Welcome to...  
 <br/>
 <img src="assets/img/logo.png" width="440" height="248">
-<br/>
-<img style="width:100%" src="assets/img/Fankit/Screenshots/Hunt_E3_2017_screenshot_barn_1080p.jpg">
 </p>
-<p style="display:flex; justify-content: space-between; width: 75%; margin: auto;">
-<a href="beginner">
-<img width="120" height="200" src="assets/img/beginner.png"/>
-<br/>Beginner's Guides
-</a>
-<br/>
-<a href="guides">
-<img width="208" height="208" src="assets/img/guides.png"/>
-<br/>Guides, Tips, and Tricks
-</a>
-<br/>
-<a href="handbook">
-  <img width="120" height="200" src="assets/img/handbook.png"/>
-  <br/>Handbook
-</a>
-</p>
+<div style="display:flex; justify-content: space-between; width: 75%; margin: auto;">
+  
+  <div style="width:33%;text-align:center">
+    <a href="beginner">
+        <img width="120" height="200" src="assets/img/beginner.png"/>
+        <br/>Beginner's Guides
+    </a>
+    <br/>
+  </div>
+  <div style="width:33%;text-align:center">
+    <a href="guides">
+      <img width="208" height="208" src="assets/img/guides.png"/>
+      <br/>Guides, Tips, and Tricks
+    </a>
+  </div>
+  <br/>
+  <div style="width:33%;text-align:center">
+    <a href="handbook">
+      <img width="120" height="200" src="assets/img/handbook.png"/>
+      <br/>Handbook
+    </a>
+  </div>
+</div>
 
 # Links
 Official Hunt:Showdown website.  
@@ -33,8 +38,8 @@ Official Hunt:Showdown website.
 Feeback for the game, technical support, looking for players, casual chat, lore discussions and official announcements.  
 [Official Discord](https://discord.gg/huntshowdown)
 
-Report bugs, cheating, and misconduct, or get technical support for the game.  
-[Support Link](https://huntshowdown.kayako.com/)
+Discussion, memes, hats.   
+[Subreddit](https://www.reddit.com/r/huntshowdown)
 
 The roadmap is currently MIA.   
 [Roadmap](https://www.huntshowdown.com/roadmap)
@@ -50,6 +55,11 @@ Important information about game mechanics and list of known bugs.
 
 Major patches are released to the test server before going live.  
 [Test Server Patch Notes (steam)](https://steamcommunity.com/app/770720/allnews/)
+
+
+Report bugs, cheating, and misconduct, or get technical support for the game.  
+[Support now via the offical website](https://www.huntshowdown.com/)
+![image](https://user-images.githubusercontent.com/1551332/148677042-6807b8bf-767a-4a07-81a4-d201a36af17e.png)
 
 # About
 [About](about) this site.  
