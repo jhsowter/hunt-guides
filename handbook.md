@@ -10,6 +10,10 @@ How stuff works, stats and data, lists and tables.
 *Damage Graph*
 ![Damage Graph](https://media.discordapp.net/attachments/350202864242655234/692790654593400903/projectile_drop_new.png?width=1348&height=843) (from Discord)
 
+
+*Damage Drop Off Table*
+![Damage Dropoff](assets/img/damage-dropoff.jpg) ([source](https://www.reddit.com/r/HuntShowdown/comments/s43rei/hunt_showdown_patch_17_updated_damage_dropoff/): [Credit goes to ](https://www.reddit.com/user/iI_FAYTE_Ii/))
+
 *Damage Multipliers*
 ![Damage Multipliers](https://media.discordapp.net/attachments/350202864242655234/692799272017461315/27.jpg?width=1499&height=843) (from Discord)
 
