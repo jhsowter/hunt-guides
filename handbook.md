@@ -12,12 +12,10 @@ How stuff works, stats and data, lists and tables.
 
 
 *Damage Drop Off Table*  
-
-<a href="assets/img/damage-dropoff.jpg" target="_blank">
-  <img width="120" height="200" src="assets/img/damage-dropoff.jpg"/>
+<a href="assets/img/damage-dropoff.jpg">
+  <img width="240" height="400" src="assets/img/damage-dropoff.jpg"/>
 </a>
 
-* Large image. Click the image to open in a new tab  
 * [source](https://www.reddit.com/r/HuntShowdown/comments/s43rei/hunt_showdown_patch_17_updated_damage_dropoff/): Credit goes to [iI_FAYTE_Ii](https://www.reddit.com/user/iI_FAYTE_Ii/)
 
 
