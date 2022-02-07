@@ -35,14 +35,11 @@ Welcome to...
 Official Hunt:Showdown website.  
 [www.huntshowdown.com](https://www.huntshowdown.com/)  
 
-Feeback for the game, technical support, looking for players, casual chat, lore discussions and official announcements.  
+Feedback for the game, technical support, looking for players, casual chat, lore discussions and official announcements.  
 [Official Discord](https://discord.gg/huntshowdown)
 
 Discussion, memes, hats.   
 [Subreddit](https://www.reddit.com/r/huntshowdown)
-
-The roadmap is currently MIA.   
-[Roadmap](https://www.huntshowdown.com/roadmap)
 
 Trailers, teasers, and developer live streams.  
 [Official YouTube channel](https://www.youtube.com/c/HuntShowdown)
